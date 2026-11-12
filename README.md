@@ -1,6 +1,6 @@
 # Weathery
 
-A clean, mobile-first weather app built with Flutter. Search for a city to view its current conditions, compare weather across featured cities, and explore the five-day forecast in a temperature chart.
+Weather app built with Flutter. Search for a city to view its current conditions, compare weather across featured cities, and explore the five-day forecast in a temperature chart.
 
 ## Features
 
