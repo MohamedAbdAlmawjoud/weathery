@@ -1,0 +1,46 @@
+name: weathery
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.3
+
+dependencies:
+  dio: ^5.11.1
+  flutter:
+    sdk: flutter
+  equatable: any
+  json_annotation: any
+  freezed_annotation: any
+  get: ^4.7.3
+  intl: ^0.20.3
+  lottie: ^3.8.2
+  syncfusion_flutter_charts: ^35.1.43
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  json_serializable: any
+  build_runner: any
+  freezed: any
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/animations/
+  
+  fonts:
+    - family: flutterfonts
+      fonts:
+        - asset: assets/fonts/flutterfonts.ttf
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/weathery_icon.png"
+  remove_alpha_ios: true
