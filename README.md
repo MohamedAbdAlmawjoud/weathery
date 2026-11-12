@@ -12,6 +12,15 @@ Weather app built with Flutter. Search for a city to view its current conditions
 - Refresh weather data with pull-to-refresh or the header refresh button
 - View loading and error states when weather data is unavailable
 
+
+## Screenshots
+<p align="center">
+  <img src="assets/screenshots/screen1.png" width="250" alt="Weathery Home Screen" />
+  <img src="assets/screenshots/screen2.png" width="250" alt="Weathery Weather Screen" />
+  <img src="assets/screenshots/screen3.png" width="250" alt="Weathery Forecast Screen" />
+</p>
+
+
 ## Built with
 
 - Flutter and Dart
